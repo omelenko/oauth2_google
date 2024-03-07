@@ -1,0 +1,5 @@
+Додати в один із попередніх проєктів можливість авторизації через Google і/або Telegram і/або GitHub
+
+або MVC або WEB API
+
+https://learn.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-8.0 - документація
