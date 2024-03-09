@@ -1,8 +1,8 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "IStringLocalizer";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">@ViewData["Greeting"]</h1>
+    <p>@ViewData["Greeting1"] <a href="https://learn.microsoft.com/aspnet/core">@ViewData["Greeting2"]</a>.</p>
 </div>
